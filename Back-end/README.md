@@ -11,6 +11,5 @@ PUT /employees/:eid: Update an employee's details.
 DELETE /employees/:eid: Delete an employee by ID.
 
 # Database Connection:
-Username: vudangdaiduong
-Password: Taikai1201
-Database name: comp_3123_assignment
+MongoDB
+
