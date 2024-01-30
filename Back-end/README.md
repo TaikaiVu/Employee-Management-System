@@ -1,8 +1,3 @@
-# COMP3123 - ASSIGNMENT 1 code 
-# TAIKAI VU - 101354480
-
-
-
 # API Endpoints
 path: /api/v1/user
 POST /signup: Post details of new user
